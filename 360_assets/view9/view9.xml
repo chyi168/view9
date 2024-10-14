@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/DSC01515.jpg?t=1728886529" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="15" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="1999" highresHeight="1335">
+    <image src="images/DSC01515.jpg?t=1728886529">
+      <highres src="images/highres/DSC01515.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01516.jpg?t=1728886529">
+      <highres src="images/highres/DSC01516.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01517.jpg?t=1728886529">
+      <highres src="images/highres/DSC01517.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01518.jpg?t=1728886529">
+      <highres src="images/highres/DSC01518.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01519.jpg?t=1728886529">
+      <highres src="images/highres/DSC01519.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01520.jpg?t=1728886529">
+      <highres src="images/highres/DSC01520.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01521.jpg?t=1728886529">
+      <highres src="images/highres/DSC01521.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01522.jpg?t=1728886529">
+      <highres src="images/highres/DSC01522.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01523.jpg?t=1728886529">
+      <highres src="images/highres/DSC01523.jpg?t=1728886529" />
+    </image>
+    <image src="images/DSC01524.jpg?t=1728886529">
+      <highres src="images/highres/DSC01524.jpg?t=1728886529" />
+    </image>
+  </images>
+</config>
